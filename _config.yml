@@ -1,0 +1,15 @@
+# Site settings
+title: Alejandro Planchart
+email: ockeghem@cox.com
+description: "Early music edited by Alejandro Planchart"
+baseurl: ""
+url: "http://planchart.github.io"
+#twitter_username: jekyllrb
+github_username:  planchart
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+
+

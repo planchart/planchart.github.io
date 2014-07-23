@@ -1,1 +1,7 @@
 _site
+*.mus
+*.MUS
+*.TMP
+*.tmp
+*.SAV
+*.sav

@@ -1,6 +1,6 @@
 # Site settings
 title: Alejandro Planchart
-email: ockeghem@cox.com
+email: planchar@music.ucsb.edu
 description: "Early music edited by Alejandro Planchart"
 baseurl: ""
 url: "http://planchart.github.io"
@@ -12,4 +12,34 @@ markdown: kramdown
 permalink: pretty
 
 
+# https://help.github.com/articles/sitemaps-for-github-pages
+gems:
+  - jekyll-sitemap
+
+# Keeping Jekyll up-to-date:
+#https://help.github.com/articles/using-jekyll-with-pages#keeping-jekyll-up-to-date
+# "bundle update" will update
+
+
+###################################################
+##
+## jekyll commands
+##    http://jekyllrb.com/docs/usage
+##
+#
+# Comple the source files into the static HTML website
+#    jekyll build
+#
+# Run jekyll server in the background:
+#     jekyll serve --detach
+# Watch for changes in source files:
+#     jekyll serve --watch
+
+
+#################################################
+##
+## Jekyll directory structure:
+##     http://jekyllrb.com/docs/structure
+#
+#
 
